@@ -7,7 +7,7 @@
 PHP_MINIT_FUNCTION(gumbo);
 
 #define PHP_GUMBO_EXTNAME "gumbo"
-#define PHP_GUMBO_VERSION "0.10.1-r0"
+#define PHP_GUMBO_VERSION "0.10.2"
 
 extern zend_module_entry gumbo_module_entry;
 #define phpext_gumbo_ptr &gumbo_module_entry
